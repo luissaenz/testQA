@@ -27,3 +27,4 @@ Aplicación mínima para probar el pipeline de previews de Coolify con el orques
 - `NODE_ENV` - entorno (default: development)
 - `BRANCH` - nombre de la rama
 - `COMMIT_SHA` - hash del commit
+vie 24 jul 2026 14:38:56 -03 - webhook test
